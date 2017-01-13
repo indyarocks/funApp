@@ -1,0 +1,19 @@
+{
+  "name": "fun_app",
+  "version": "1.0.0",
+  "description": "fun app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:indyarocks/funApp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Chandan",
+  "license": "ISC"
+}
