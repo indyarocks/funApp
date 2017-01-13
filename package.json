@@ -15,5 +15,8 @@
     "expressjs"
   ],
   "author": "Chandan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
 }
